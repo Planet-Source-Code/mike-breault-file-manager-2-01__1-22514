@@ -1,0 +1,34 @@
+-Create Shortcuts
+*Enable/Disable ScreenSaver
+*Activate ScreenSaver
+*Screen Resolution Changer
+*Send File To Recycle Bin
+-Send Folder To Recycle Bin
+-Register OCX
+-UnRegister OCX
+*Print File List
+-Print Folder List
+-In Menu Make A Show Hidden Files Option
+*find out how to get the size of a file (accurate)
+*find out how to get the type of file
+*find out how to get the "last modified" of a file
+-put the disable ctr-alt-del and enable ctl-alt-del
+-Putting folders into the listview for recycle bin purposes
+-"Updating" a treeview with changes
+-displaying bitmaps or icons into a menus
+-Copying files/folders
+-Displaying proper names in recycle bin
+*Put in 2 icons of arrows (back and forward) for going back and fowards in folders
+-Look for 2 icons for moving and copying files
+-Make in toolbar to show treeview and hide treeview
+-make an icon for going "up a level" to go up in folders
+-Find out if there is a way to program a way to customize a toolbar
+*In tools put a "Open Dos Window"
+*put extract icon in the launch bar instead of toolbar
+*put image viewer icon in the launch bar
+*Do a filter form (copy of powerdesk)
+-Expand Folder List
+-Put "Go To Drive" form (displays all drives in a box and allows user to choose)
+-Find out a way to check to see how many files are clicked on
+-Find all of ali ezzhairs explorer programs maybe to change one of them around with me
+ work but with his treeview
